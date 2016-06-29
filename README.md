@@ -1,3 +1,4 @@
 # git-self-training
-This is for git practice
+This is for git practice.
+
 Nothing useful can be found here.
