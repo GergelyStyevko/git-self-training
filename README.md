@@ -5,3 +5,4 @@ Nothing useful can be found here.
 
 Let see how to resolva a conflict.
 
+Conflict resolved.
